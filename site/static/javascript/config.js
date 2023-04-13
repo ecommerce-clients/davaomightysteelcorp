@@ -1,0 +1,1 @@
+var SubDomain = 'davaomightysteelcorp'; var SiteID = '1AEF814F-9BEE-402B-88D4-AAFD1E64EE76'; var host = 'https://api.eraconnect.net';
